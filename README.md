@@ -31,9 +31,9 @@
 	- 例：`touch gitcode.txt` 新建一个名为`gitcode.txt`的文本文档
 - `cat`：🐱**c**onc**a**tena**t**e 查看文件内容
 	- 例：`cat gitcode.txt` 将`gitcode.txt`中的内容打印到屏幕
-- `mkdir`：新建文件夹
-	- 例：`mkdir git` 新建一个名为`git`的文件夹
-- `rm`：删除文件
+- `mkdir`：**m**a**k**e **dir**ectory 新建文件夹
+	- 例：`mkdir git` 在当前目录下新建一个名为`git`的文件夹
+- `rm`：**r**e**m**ove 删除文件
 	- 例：`rm gitcode.txt` 删除名为`gitcode.txt`的文本文档
 	- 例：`rm -r git` 删除名为`git`的文件夹（ ⚠ **警告**：`rm -r` 会永久删除文件夹，不会进入回收站，操作前请确认）
 - `mv`：**m**o**v**e 移动/重命名文件
